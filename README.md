@@ -32,7 +32,10 @@ System.arraycopy(num, 0 , newNum, 0, num,length);
 ```
 * num[0]에서 newNum[0]으로 num.length개의 데이터를 복사
 
-1.6 배열의 활용
+2.3 char 배열과 String 클래스   
+* 문자열 = '문자를 연어어 늘어놓은 것'   
+* String 클래스는 char 배열에 기능(메서드)를 추가한 것
+* 차이점은 String객체는 읽을 수만 있을 뿐 내용 변경이 불가능
 
 
 
